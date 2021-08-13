@@ -2,7 +2,7 @@
 [2.x docs](https://github.com/hjkcai/vue-modal-dialogs/blob/62eadbb4683d4b4f3bfdbb783a7eb0aab9363174/README.md) |
 [1.x docs](https://github.com/hjkcai/vue-modal-dialogs/blob/c0fcd99961f2cc118c2fbadc73efc4e384ab2593/README.md)
 
-# Introduction
+# Introduction -update
 
 **Promisify dialogs!**
 
